@@ -13,7 +13,8 @@ public class NewClass {
      public static void main(String args[]){
     
 NewClass j= new NewClass();
-int d=j.mutliply(2, 2,2);
+//int d=j.mutliply(2, 2,2);
+int d=j.mutliply(3, 3,3);
 System.out.println(d);
         
         
